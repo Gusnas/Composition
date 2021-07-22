@@ -1,0 +1,13 @@
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\obj\Debug\netcoreapp3.1\Compostion.csprojAssemblyReference.cache
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\obj\Debug\netcoreapp3.1\Compostion.AssemblyInfoInputs.cache
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\obj\Debug\netcoreapp3.1\Compostion.AssemblyInfo.cs
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\obj\Debug\netcoreapp3.1\Compostion.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\bin\Debug\netcoreapp3.1\Compostion.exe
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\bin\Debug\netcoreapp3.1\Compostion.deps.json
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\bin\Debug\netcoreapp3.1\Compostion.runtimeconfig.json
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\bin\Debug\netcoreapp3.1\Compostion.runtimeconfig.dev.json
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\bin\Debug\netcoreapp3.1\Compostion.dll
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\bin\Debug\netcoreapp3.1\Compostion.pdb
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\obj\Debug\netcoreapp3.1\Compostion.dll
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\obj\Debug\netcoreapp3.1\Compostion.pdb
+C:\Users\gustavo.nascimento\source\repos\Compostion\Compostion\obj\Debug\netcoreapp3.1\Compostion.genruntimeconfig.cache
